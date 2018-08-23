@@ -1,0 +1,1 @@
+Implantação é a fase do ciclo de vida de um software (programa computacional, documentação e dados), no contexto de um Sistema de Informação, que corresponde textualmente à passagem do software para a produção. ... Estas atividades podem ocorrer no ambiente de produção e ou no ambiente de desenvolvimento ou em ambos.
